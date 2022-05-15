@@ -4,7 +4,7 @@
 ![alt text](git.png)
 
 ## Installation
-##### Öncelikle projeyi clonelayın.(Buraya sisin reponuzdan aldığınız link gelecek.)
+##### Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
 ```
 git clone https://github.com/Nursimaasilturk/kodluyoruzilkrepo.git
 ```
